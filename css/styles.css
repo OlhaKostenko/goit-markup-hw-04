@@ -152,13 +152,11 @@ img {
   padding-bottom: 200px;
   text-align: center;
   margin: auto;
-}
-.hero-bg-img {
   background-image: linear-gradient(
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(/images/main_page/bghero.jpg);
+    url(/images//main_page/bghero.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 1600px;
